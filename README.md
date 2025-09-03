@@ -1,7 +1,7 @@
 # 🛡️ Backdoor Defense Papers Collection
 
 > 📚 **A comprehensive collection of research papers on backdoor defenses in machine learning.**  
-> 🎓 **Maintained by**: Dr. [Your Name] | [Your Affiliation] | [Your Email/Website]
+> 🎓 **Maintained by**: Dr. [Shanzhong Lei] | [Your Affiliation] | [szhonglason@gmail.com]
 
 ## 📖 About This Repository
 
