@@ -1,4 +1,4 @@
-# 🛡️ Model Inversion Attack & Multimodal AI Privacy Security Papers Collection 
+# 🛡️ Model Inversion Attack Papers Collection 
 
 > 📚 **A comprehensive collection of research papers on Model Inversion Attack in machine learning.**  
 > 🎓 **Maintained by**: Dr. [Shanzhong Lei] | [Chongqing University of Posts and Telecommunications] | [szhonglason@gmail.com]
