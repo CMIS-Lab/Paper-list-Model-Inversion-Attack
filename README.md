@@ -30,8 +30,14 @@ In model inversion attacks, a malicious user attempts to recover the private dat
 
 <h3 id="attacks"> 2025 </h3>
 
-* **[2025.04.28]** **[Diffusion-Driven Universal Model Inversion Attack for Face Recognition](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([https://github.com/yunqing-me/AttackVLM](https://github.com/vtu81/backdoor-toolbox)) 
+* **[2025.04.28]** **[Diffusion-Driven Universal Model Inversion Attack for Face Recognition](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/CVPR'25-6c757d)(![arXiv](https://img.shields.io/badge/CCF_A-dc3545)) 
   * Hanrui Wang , Shuo Wang , Chun-Shien Lu , Isao Echizen
-  * **📝 Summary**: A novel approach that extracts backdoor functionality from infected models to enable accurate detection of backdoor inputs without requiring clean reference data.
-  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable
+  * **📝 Summary**: This paper propose a novel method called DiffUMI, a training-free diffusion-driven universal model inversion attack for face recognition systems. DiffUMI is the first approach to apply a diffusion model for unconditional image generation in model inversion.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Solved the critical challenges of relying on datasets for training, poor open-set adaptability, and limited reconstruction quality.
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Innovative backdoor functionality extraction technique with strong theoretical foundation and empirical validation
+
+ * **[2025.03.20]** **[Diffusion-Driven Universal Model Inversion Attack for Face Recognition](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([https://github.com/yunqing-me/AttackVLM](https://github.com/vtu81/backdoor-toolbox))(![arXiv](https://img.shields.io/badge/CCF_A-dc3545)) 
+  * Hanrui Wang , Shuo Wang , Chun-Shien Lu , Isao Echizen
+  * **📝 Summary**: This paper propose a novel method called DiffUMI, a training-free diffusion-driven universal model inversion attack for face recognition systems. DiffUMI is the first approach to apply a diffusion model for unconditional image generation in model inversion.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Solved the critical challenges of relying on datasets for training, poor open-set adaptability, and limited reconstruction quality.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Innovative backdoor functionality extraction technique with strong theoretical foundation and empirical validation
